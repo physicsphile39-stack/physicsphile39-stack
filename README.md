@@ -14,7 +14,21 @@
 - 🔬 Working as an ISRO Research Intern 
 - 📚 Continuously learning and building technical projects
 
----
+---## 🛠️ Technical Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Programming
+- C
+- C++
+- Python
+- 
 
 ## 🛠️ Technical Skills
 
@@ -67,3 +81,6 @@
 ## 📫 Connect With Me
 
 - GitHub: @physicsphile39-stack
+-## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=physicsphile39-stack&show_icons=true)
