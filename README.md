@@ -30,12 +30,6 @@
 - Python
 - 
 
-## 🛠️ Technical Skills
-
-### Programming
-- C
-- C++
-- Python
 
 ### Cyber Security
 - Digital Forensics
