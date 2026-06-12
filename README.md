@@ -32,7 +32,7 @@
 - Linux
 - Git & GitHub
 - Networking Basics
-
+- MATLAB
 ---
 
 ## 🔭 Current Focus
